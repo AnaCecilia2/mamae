@@ -3,12 +3,12 @@ body {
   }
   
   h1 {
-    color: rgb(238, 20, 20); /*Pode escolher outra cor se quiser*/
+    color: aliceblue; /*Pode escolher outra cor se quiser*/
     text-align: center;
   }
   
   p {
     color:aliceblue ;
-    font-family: verdana;
+    font-family: candara ;
     font-size: 20px;
   }
